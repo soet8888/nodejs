@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-ws": "^4.0.0",
+    "websocket": "^1.0.31"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
